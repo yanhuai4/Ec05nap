@@ -1,0 +1,1 @@
+Description: EcoSnap is an innovative mobile application designed to empower eco-conscious consumers. By simply snapping a photo, users can scan product barcodes to receive instant information on the item's environmental impact, sustainability rating, and ethical sourcing practices. EcoSnap aims to make sustainable shopping accessible and informative.

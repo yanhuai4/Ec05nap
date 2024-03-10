@@ -1,0 +1,26 @@
+{
+"name": "Ec05nap",
+"version": "1.0.0",
+"description": "EcoSnap is an innovative mobile application designed to empower eco-conscious consumers",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai4/Ec05nap.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai4",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
